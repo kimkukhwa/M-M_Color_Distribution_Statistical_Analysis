@@ -1,1 +1,1 @@
-# M-M_Color_Distribution_Statistical_Analysis
+# M&M_Color_Distribution_Statistical_Analysis
